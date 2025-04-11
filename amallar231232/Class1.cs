@@ -27,7 +27,7 @@ namespace amallar231232
         public static bool amal4()
         {
 
-            return true;
+            return false;
         }
 
 
