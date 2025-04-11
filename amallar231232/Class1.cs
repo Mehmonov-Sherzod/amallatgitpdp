@@ -14,7 +14,12 @@ namespace amallar231232
 
             return true;
         }
-        public static bool amal()
+        public static bool amal1()
+        {
+
+            return true;
+        }
+        public static bool amal3()
         {
 
             return true;
