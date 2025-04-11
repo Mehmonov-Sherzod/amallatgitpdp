@@ -14,6 +14,11 @@ namespace amallar231232
 
             return true;
         }
+        public static bool amal()
+        {
+
+            return true;
+        }
 
 
     }
