@@ -8,5 +8,13 @@ namespace amallar231232
 {
     class Class1
     {
+
+        public static bool amal()
+        {
+
+            return true;
+        }
+
+
     }
 }
